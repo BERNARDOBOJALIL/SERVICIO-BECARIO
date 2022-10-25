@@ -1,2 +1,2 @@
 for i in range(5):
-    print(f"Hola {i*i}")
+    print(f"Hola {i*i -2}")
